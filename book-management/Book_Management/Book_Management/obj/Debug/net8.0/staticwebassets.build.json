@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "b4j1wVqCWFoqvxh9x/U39PqV2nwqn0M7N9Ff++WNayQ=",
+  "Source": "Book_Management",
+  "BasePath": "_content/Book_Management",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Book_Management/wwwroot",
+      "Source": "Book_Management",
+      "ContentRoot": "/Users/mohammedsahilmalek/Desktop/Book_Management/Book_Management/wwwroot/",
+      "BasePath": "_content/Book_Management",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
